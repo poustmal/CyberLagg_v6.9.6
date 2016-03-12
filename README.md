@@ -1,8 +1,7 @@
 #[=] CyberLagg PocketMine Plugin [=]
     Created By Top Developer Indonesia
                 _ZacSora_
-alias : Kuruta,Nix1a_latte,
-  We Are Teams : 
+  We Are Team!!
 - My Github : https://github.com/KurutaEvolvy
 - My Friend : https://github.com/NightmareCybers
   -=This Languange Plugin Is Indonesian=-
@@ -19,11 +18,9 @@ alias : Kuruta,Nix1a_latte,
 
   » /cyberlagg clearall
        • Clear All Entities
+    It's Recommended To Use TimeCommander
 
  #My Official :
-
-    Join My Official Server -
     IP : Cyber-Realms.zapto.org
-   Port : 19132
-By Owner : NightmareCybers And ZacSora
-    
+           Port : 19132
+   
