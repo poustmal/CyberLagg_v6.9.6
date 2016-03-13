@@ -1,7 +1,7 @@
 #[=] CyberLagg PocketMine Plugin [=]
     Created By Top Developer Indonesia
                 _ZacSora_
-  We Are Team!!
+  #INFO :
 - My Github : https://github.com/KurutaEvolvy
 - My Friend : https://github.com/NightmareCybers
   -=This Languange Plugin Is Indonesian=-
@@ -19,6 +19,10 @@
   » /cyberlagg clearall
        • Clear All Entities
     It's Recommended To Use TimeCommander
+
+#Link Download :
+
+https://github.com/KurutaEvolvy/CyberLagg_v6.9.6/releases/download/CyberLagg_v6.9.6/CyberLagg_v6.9.6.zip
 
  #My Official :
     IP : Cyber-Realms.zapto.org
