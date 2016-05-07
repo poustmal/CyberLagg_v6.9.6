@@ -1,7 +1,7 @@
-#[=] CyberLagg PocketMine Plugin [=]
+#THIS PLUGIB WILL BE CHANGED TO ANTIVIRUSMCPE
     Created By Top Developer Indonesia
-                _ZacSora_
-  #INFO :
+                _KurutaSora_
+#INFO :
 - My Github : https://github.com/KurutaEvolvy
 - My Friend : https://github.com/NightmareCybers
   -=This Languange Plugin Is Indonesian=-
