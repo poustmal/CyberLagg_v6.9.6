@@ -1,0 +1,19 @@
+name: CyberLagg
+main: CyberLagg\Loader
+version: 6.9.6
+api: ["1.0.0","1.12.0"]
+author: SoraCybers
+website: https://github.com/KurutaEvolvy/CyberLagg
+description: "Lagg Remover Plugin for PocketMine Server with english languange"
+permissions:
+  cyberlagg:
+    default: op
+    description: "Semua Akses Ke CyberLagg fitur."
+    children:
+      cyberlagg.command:
+        default: op
+        description: "Semua Akses Ke CyberLagg commands."
+        children:  
+          cyberlagg.command.cyberlagg:
+            default: op
+            description: "semua akses untuk CyberLagg command."
